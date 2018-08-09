@@ -18,6 +18,6 @@ scripte 3 parametre yollamak,
 2.parametre ip'lerin yazılacağı file: /home/resobyte/ip.txt
 3.parametre url'lerin yazılacağı file: /home/resobyte/url.txt
 
-'sh url_ip.sh url_ip.txt /home/resobyte/ip.txt /home/resobyte/url.txt' yazmak.
+```sh url_ip.sh url_ip.txt /home/resobyte/ip.txt /home/resobyte/url.txt``` yazmak.
 
 Ondan sonra scriptimiz Url ve Ip olmak üzere iki adet txt dosyası oluşturacaktır.
